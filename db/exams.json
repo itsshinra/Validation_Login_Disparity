@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "HTB Certified Penetration Testing Specialist (CPTS)",
+    "field": "Penetration Testing",
+    "cost": 210
+  },
+  {
+    "id": 2,
+    "name": "HTB Certified Bug Bounty Hunter (CBBH)",
+    "field": "Bug Bounty Hunting",
+    "cost": 210
+  }
+]

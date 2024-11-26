@@ -1,0 +1,15 @@
+[
+  {
+    "_id": {
+      "$oid": "649f2893cba8d0d6e8412182"
+    },
+    "name": "HTB Student",
+    "username": "htb-student",
+    "email": "htb-student@academy.htb",
+    "password": "$2b$10$3DLtpVVg4RGTEfQVlz/dte4/KLjkYOhImY8FKlxnjyQ5VJMUVhOjG",
+    "registrationDate": {
+      "$date": "2023-01-01T00:00:00.000Z"
+    },
+    "__v": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Silver",
+    "description": "Get started with Cyber Security",
+    "reward": 200,
+    "cost": 18,
+    "duration": 12,
+    "unlockedTiers": ["Tier 0", "Tier I", "Tier II"]
+  },
+  {
+    "name": "Gold",
+    "description": "Advance in Cyber Security",
+    "reward": 500,
+    "cost": 38,
+    "duration": 12,
+    "unlockedTiers": ["Tier 0", "Tier I", "Tier II", "Tier III"]
+  },
+  {
+    "name": "Platinum",
+    "description": "Master Cyber Security",
+    "reward": 1000,
+    "cost": 68,
+    "duration": 12,
+    "unlockedTiers": ["Tier 0", "Tier I", "Tier II", "Tier III", "Tier IV"]
+  },
+  {
+    "name": "Unlimited",
+    "description": "Unlimited access to all courses",
+    "reward": 0,
+    "cost": 0,
+    "duration": 0,
+    "unlockedTiers": ["Tier 0", "Tier I", "Tier II", "Tier III", "Tier IV"]
+  },
+  {
+    "name": "free",
+    "description": "Free subscription",
+    "cost": 0,
+    "reward": 0,
+    "duration": 0,
+    "unlockedTiers": []
+  }
+]

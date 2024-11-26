@@ -1,0 +1,520 @@
+[
+  { "id": 1, "moduleId": 1, "title": "Introduction" },
+  { "id": 2, "moduleId": 1, "title": "Sections" },
+  {
+    "id": 3,
+    "moduleId": 1,
+    "title": "Interactive Section",
+    "isPractical": true
+  },
+  {
+    "id": 4,
+    "moduleId": 1,
+    "title": "Interactive Section with Terminal",
+    "isPractical": true
+  },
+  {
+    "id": 5,
+    "moduleId": 1,
+    "title": "Interactive Section with Target",
+    "isPractical": true
+  },
+  { "id": 6, "moduleId": 1, "title": "Modules" },
+  { "id": 7, "moduleId": 1, "title": "Paths" },
+  { "id": 8, "moduleId": 1, "title": "Conclusion" },
+  { "id": 9, "moduleId": 2, "title": "Way Of Thinking" },
+  { "id": 10, "moduleId": 2, "title": "Think Outside the Box" },
+  { "id": 11, "moduleId": 2, "title": "Occam's Razor" },
+  { "id": 12, "moduleId": 2, "title": "Talent" },
+  { "id": 13, "moduleId": 2, "title": "Way Of Learning" },
+  { "id": 14, "moduleId": 2, "title": "Learning Efficiency" },
+  { "id": 15, "moduleId": 2, "title": "Learning Types" },
+  { "id": 16, "moduleId": 2, "title": "The Brain" },
+  { "id": 17, "moduleId": 2, "title": "The Will" },
+  { "id": 18, "moduleId": 2, "title": "The Goal" },
+  { "id": 19, "moduleId": 2, "title": "Decision Making" },
+  { "id": 20, "moduleId": 2, "title": "Documentation" },
+  { "id": 21, "moduleId": 2, "title": "Organization" },
+  { "id": 22, "moduleId": 2, "title": "Focus" },
+  { "id": 23, "moduleId": 2, "title": "Attention" },
+  { "id": 24, "moduleId": 2, "title": "Comfort" },
+  { "id": 25, "moduleId": 2, "title": "Obstacles" },
+  { "id": 26, "moduleId": 2, "title": "Questioning" },
+  { "id": 27, "moduleId": 2, "title": "Handling Frustration" },
+  {
+    "id": 28,
+    "moduleId": 2,
+    "title": "Learning Progress",
+    "isPractical": true
+  },
+  { "id": 29, "moduleId": 3, "title": "Linux Structure" },
+  { "id": 30, "moduleId": 3, "title": "Linux Distributions" },
+  { "id": 31, "moduleId": 3, "title": "Introduction to Shell" },
+  { "id": 32, "moduleId": 3, "title": "Prompt Description" },
+  { "id": 33, "moduleId": 3, "title": "Getting Help" },
+  {
+    "id": 34,
+    "moduleId": 3,
+    "title": "System Information",
+    "isPractical": true
+  },
+  { "id": 35, "moduleId": 3, "title": "Navigation", "isPractical": true },
+  {
+    "id": 36,
+    "moduleId": 3,
+    "title": "Working with Files and Directories",
+    "isPractical": true
+  },
+  { "id": 37, "moduleId": 3, "title": "Editing Files", "isPractical": true },
+  {
+    "id": 38,
+    "moduleId": 3,
+    "title": "Find Files and Directories",
+    "isPractical": true
+  },
+  {
+    "id": 39,
+    "moduleId": 3,
+    "title": "File Descriptors and Redirections",
+    "isPractical": true
+  },
+  { "id": 40, "moduleId": 3, "title": "Filter Contents", "isPractical": true },
+  {
+    "id": 41,
+    "moduleId": 3,
+    "title": "Regular Expressions",
+    "isPractical": true
+  },
+  {
+    "id": 42,
+    "moduleId": 3,
+    "title": "Permission Management",
+    "isPractical": true
+  },
+  { "id": 43, "moduleId": 3, "title": "User Management", "isPractical": true },
+  {
+    "id": 44,
+    "moduleId": 3,
+    "title": "Package Management",
+    "isPractical": true
+  },
+  {
+    "id": 45,
+    "moduleId": 3,
+    "title": "Service and Process Management",
+    "isPractical": true
+  },
+  { "id": 46, "moduleId": 3, "title": "Task Scheduling", "isPractical": true },
+  { "id": 47, "moduleId": 3, "title": "Network Services", "isPractical": true },
+  {
+    "id": 48,
+    "moduleId": 3,
+    "title": "Working with Web Services",
+    "isPractical": true
+  },
+  {
+    "id": 49,
+    "moduleId": 3,
+    "title": "Backup and Restore",
+    "isPractical": true
+  },
+  {
+    "id": 50,
+    "moduleId": 3,
+    "title": "File System Management",
+    "isPractical": true
+  },
+  { "id": 51, "moduleId": 3, "title": "Containerization", "isPractical": true },
+  {
+    "id": 52,
+    "moduleId": 3,
+    "title": "Network Configuration",
+    "isPractical": true
+  },
+  { "id": 53, "moduleId": 3, "title": "Remote Desktop Protocols in Linux" },
+  { "id": 54, "moduleId": 3, "title": "Linux Security" },
+  { "id": 55, "moduleId": 3, "title": "Firewall Setup", "isPractical": true },
+  {
+    "id": 56,
+    "moduleId": 3,
+    "title": "System Logs and Monitoring",
+    "isPractical": true
+  },
+  { "id": 57, "moduleId": 3, "title": "Solaris" },
+  { "id": 58, "moduleId": 3, "title": "Shortcuts" },
+  { "id": 59, "moduleId": 4, "title": "Intro to File Inclusions" },
+  {
+    "id": 60,
+    "moduleId": 4,
+    "title": "Local File Inclusion (LFI)",
+    "isPractical": true
+  },
+  { "id": 61, "moduleId": 4, "title": "Basic Bypasses", "isPractical": true },
+  { "id": 62, "moduleId": 4, "title": "PHP Filters", "isPractical": true },
+  { "id": 63, "moduleId": 4, "title": "PHP Wrappers", "isPractical": true },
+  {
+    "id": 64,
+    "moduleId": 4,
+    "title": "Remote File Inclusion (RFI)",
+    "isPractical": true
+  },
+  {
+    "id": 65,
+    "moduleId": 4,
+    "title": "LFI and File Uploads",
+    "isPractical": true
+  },
+  { "id": 66, "moduleId": 4, "title": "Log Poisoning", "isPractical": true },
+  {
+    "id": 67,
+    "moduleId": 4,
+    "title": "Automated Scanning",
+    "isPractical": true
+  },
+  {
+    "id": 68,
+    "moduleId": 4,
+    "title": "File Inclusion Prevention",
+    "isPractical": true
+  },
+  {
+    "id": 69,
+    "moduleId": 4,
+    "title": "Skills Assessment - File Inclusion",
+    "isPractical": true
+  },
+  { "id": 70, "moduleId": 5, "title": "Introduction" },
+  { "id": 71, "moduleId": 5, "title": "Intro to Databases" },
+  { "id": 72, "moduleId": 5, "title": "Types of Databases" },
+  { "id": 73, "moduleId": 5, "title": "Intro to MySQL", "isPractical": true },
+  { "id": 74, "moduleId": 5, "title": "SQL Statements", "isPractical": true },
+  { "id": 75, "moduleId": 5, "title": "Query Results", "isPractical": true },
+  { "id": 76, "moduleId": 5, "title": "SQL Operators", "isPractical": true },
+  { "id": 77, "moduleId": 5, "title": "Intro to SQL Injections" },
+  {
+    "id": 78,
+    "moduleId": 5,
+    "title": "Subverting Query Logic",
+    "isPractical": true
+  },
+  { "id": 79, "moduleId": 5, "title": "Using Comments", "isPractical": true },
+  { "id": 80, "moduleId": 5, "title": "Union Clause", "isPractical": true },
+  { "id": 81, "moduleId": 5, "title": "Union Injection", "isPractical": true },
+  {
+    "id": 82,
+    "moduleId": 5,
+    "title": "Database Enumeration",
+    "isPractical": true
+  },
+  { "id": 83, "moduleId": 5, "title": "Reading Files", "isPractical": true },
+  { "id": 84, "moduleId": 5, "title": "Writing Files", "isPractical": true },
+  { "id": 85, "moduleId": 5, "title": "Mitigating SQL Injection" },
+  {
+    "id": 86,
+    "moduleId": 5,
+    "title": "Skills Assessment - SQL Injection Fundamentals",
+    "isPractical": true
+  },
+  {
+    "id": 87,
+    "moduleId": 6,
+    "title": "HyperText Transfer Protocol (HTTP)",
+    "isPractical": true
+  },
+  {
+    "id": 88,
+    "moduleId": 6,
+    "title": "Hypertext Transfer Protocol Secure (HTTPS)"
+  },
+  {
+    "id": 89,
+    "moduleId": 6,
+    "title": "HTTP Requests and Responses",
+    "isPractical": true
+  },
+  { "id": 90, "moduleId": 6, "title": "HTTP Headers", "isPractical": true },
+  { "id": 91, "moduleId": 6, "title": "HTTP Methods and Codes" },
+  { "id": 92, "moduleId": 6, "title": "GET", "isPractical": true },
+  { "id": 93, "moduleId": 6, "title": "POST", "isPractical": true },
+  { "id": 94, "moduleId": 6, "title": "CRUD API", "isPractical": true },
+  { "id": 95, "moduleId": 7, "title": "Introduction" },
+  { "id": 96, "moduleId": 7, "title": "Source Code", "isPractical": true },
+  { "id": 97, "moduleId": 7, "title": "Code Obfuscation" },
+  { "id": 98, "moduleId": 7, "title": "Basic Obfuscation" },
+  { "id": 99, "moduleId": 7, "title": "Advanced Obfuscation" },
+  { "id": 100, "moduleId": 7, "title": "Deobfuscation", "isPractical": true },
+  { "id": 101, "moduleId": 7, "title": "Code Analysis" },
+  { "id": 102, "moduleId": 7, "title": "HTTP Requests", "isPractical": true },
+  { "id": 103, "moduleId": 7, "title": "Decoding", "isPractical": true },
+  {
+    "id": 104,
+    "moduleId": 7,
+    "title": "Skills Assessment",
+    "isPractical": true
+  },
+  { "id": 105, "moduleId": 7, "title": "Summary" },
+  {
+    "id": 106,
+    "moduleId": 8,
+    "title": "Introduction to Windows",
+    "isPractical": true
+  },
+  {
+    "id": 107,
+    "moduleId": 8,
+    "title": "Operating System Structure",
+    "isPractical": true
+  },
+  { "id": 108, "moduleId": 8, "title": "File System", "isPractical": true },
+  {
+    "id": 109,
+    "moduleId": 8,
+    "title": "NTFS vs. Share Permissions",
+    "isPractical": true
+  },
+  {
+    "id": 110,
+    "moduleId": 8,
+    "title": "Windows Services & Processes",
+    "isPractical": true
+  },
+  { "id": 111, "moduleId": 8, "title": "Service Permissions" },
+  { "id": 112, "moduleId": 8, "title": "Windows Sessions" },
+  {
+    "id": 113,
+    "moduleId": 8,
+    "title": "Interacting with the Windows Operating System",
+    "isPractical": true
+  },
+  {
+    "id": 114,
+    "moduleId": 8,
+    "title": "Windows Management Instrumentation (WMI)",
+    "isPractical": true
+  },
+  { "id": 115, "moduleId": 8, "title": "Microsoft Management Console (MMC)" },
+  { "id": 116, "moduleId": 8, "title": "Windows Subsystem for Linux (WSL)" },
+  { "id": 117, "moduleId": 8, "title": "Desktop Experience vs. Server Core" },
+  {
+    "id": 118,
+    "moduleId": 8,
+    "title": "Windows Security",
+    "isPractical": true
+  },
+  {
+    "id": 119,
+    "moduleId": 8,
+    "title": "Skills Assessment - Windows Fundamentals",
+    "isPractical": true
+  },
+  { "id": 120, "moduleId": 9, "title": "Introduction to Brute Forcing" },
+  { "id": 121, "moduleId": 9, "title": "Password Attacks" },
+  {
+    "id": 122,
+    "moduleId": 9,
+    "title": "Default Passwords",
+    "isPractical": true
+  },
+  {
+    "id": 123,
+    "moduleId": 9,
+    "title": "Username Brute Force",
+    "isPractical": true
+  },
+  { "id": 124, "moduleId": 9, "title": "Hydra Modules" },
+  { "id": 125, "moduleId": 9, "title": "Determine Login Parameters" },
+  {
+    "id": 126,
+    "moduleId": 9,
+    "title": "Login Form Attacks",
+    "isPractical": true
+  },
+  { "id": 127, "moduleId": 9, "title": "Personalized Wordlists" },
+  {
+    "id": 128,
+    "moduleId": 9,
+    "title": "Service Authentication Brute Forcing",
+    "isPractical": true
+  },
+  {
+    "id": 129,
+    "moduleId": 9,
+    "title": "Skills Assessment - Website",
+    "isPractical": true
+  },
+  {
+    "id": 130,
+    "moduleId": 9,
+    "title": "Skills Assessment - Service Login",
+    "isPractical": true
+  },
+  { "id": 131, "moduleId": 10, "title": "Introduction" },
+  { "id": 132, "moduleId": 10, "title": "Web Application Layout" },
+  { "id": 133, "moduleId": 10, "title": "Front End vs. Back End" },
+  { "id": 134, "moduleId": 10, "title": "HTML", "isPractical": true },
+  {
+    "id": 135,
+    "moduleId": 10,
+    "title": "Cascading Style Sheets (CSS)",
+    "isPractical": true
+  },
+  { "id": 136, "moduleId": 10, "title": "JavaScript" },
+  {
+    "id": 137,
+    "moduleId": 10,
+    "title": "Sensitive Data Exposure",
+    "isPractical": true
+  },
+  { "id": 138, "moduleId": 10, "title": "HTML Injection", "isPractical": true },
+  {
+    "id": 139,
+    "moduleId": 10,
+    "title": "Cross-Site Scripting (XSS)",
+    "isPractical": true
+  },
+  { "id": 140, "moduleId": 10, "title": "Cross-Site Request Forgery (CSRF)" },
+  {
+    "id": 141,
+    "moduleId": 10,
+    "title": "Back End Servers",
+    "isPractical": true
+  },
+  { "id": 142, "moduleId": 10, "title": "Web Servers", "isPractical": true },
+  { "id": 143, "moduleId": 10, "title": "Databases", "isPractical": true },
+  {
+    "id": 144,
+    "moduleId": 10,
+    "title": "Development Frameworks & APIs",
+    "isPractical": true
+  },
+  {
+    "id": 145,
+    "moduleId": 10,
+    "title": "Common Web Vulnerabilities",
+    "isPractical": true
+  },
+  {
+    "id": 146,
+    "moduleId": 10,
+    "title": "Public Vulnerabilities",
+    "isPractical": true
+  },
+  { "id": 147, "moduleId": 10, "title": "Next Steps" },
+  { "id": 148, "moduleId": 11, "title": "Assembly Language" },
+  { "id": 149, "moduleId": 11, "title": "Computer Architecture" },
+  { "id": 150, "moduleId": 11, "title": "CPU Architecture" },
+  { "id": 151, "moduleId": 11, "title": "Instruction Set Architectures" },
+  {
+    "id": 152,
+    "moduleId": 11,
+    "title": "Registers, Addresses, and Data Types"
+  },
+  {
+    "id": 153,
+    "moduleId": 11,
+    "title": "Assembly File Structure",
+    "isPractical": true
+  },
+  {
+    "id": 154,
+    "moduleId": 11,
+    "title": "Assembling & Disassembling",
+    "isPractical": true
+  },
+  {
+    "id": 155,
+    "moduleId": 11,
+    "title": "GNU Debugger (GDB)",
+    "isPractical": true
+  },
+  {
+    "id": 156,
+    "moduleId": 11,
+    "title": "Debugging with GDB",
+    "isPractical": true
+  },
+  { "id": 157, "moduleId": 11, "title": "Module Project", "isPractical": true },
+  { "id": 158, "moduleId": 11, "title": "Data Movement", "isPractical": true },
+  {
+    "id": 159,
+    "moduleId": 11,
+    "title": "Arithmetic Instructions",
+    "isPractical": true
+  },
+  { "id": 160, "moduleId": 11, "title": "Loops", "isPractical": true },
+  {
+    "id": 161,
+    "moduleId": 11,
+    "title": "Unconditional Branching",
+    "isPractical": true
+  },
+  {
+    "id": 162,
+    "moduleId": 11,
+    "title": "Conditional Branching",
+    "isPractical": true
+  },
+  {
+    "id": 163,
+    "moduleId": 11,
+    "title": "Using the Stack",
+    "isPractical": true
+  },
+  { "id": 164, "moduleId": 11, "title": "Syscalls", "isPractical": true },
+  { "id": 165, "moduleId": 11, "title": "Procedures", "isPractical": true },
+  { "id": 166, "moduleId": 11, "title": "Functions", "isPractical": true },
+  { "id": 167, "moduleId": 11, "title": "Libc Functions", "isPractical": true },
+  { "id": 168, "moduleId": 11, "title": "Shellcodes", "isPractical": true },
+  {
+    "id": 169,
+    "moduleId": 11,
+    "title": "Shellcoding Techniques",
+    "isPractical": true
+  },
+  {
+    "id": 170,
+    "moduleId": 11,
+    "title": "Shellcoding Tools",
+    "isPractical": true
+  },
+  {
+    "id": 171,
+    "moduleId": 11,
+    "title": "Skills Assessment",
+    "isPractical": true
+  },
+  {
+    "id": 172,
+    "moduleId": 12,
+    "title": "Introduction to the Penetration Tester Path"
+  },
+  { "id": 173, "moduleId": 12, "title": "Academy Modules Layout" },
+  { "id": 174, "moduleId": 12, "title": "Academy Exercises & Questions" },
+  { "id": 175, "moduleId": 12, "title": "Penetration Testing Overview" },
+  { "id": 176, "moduleId": 12, "title": "Laws and Regulations" },
+  { "id": 177, "moduleId": 12, "title": "Penetration Testing Process" },
+  { "id": 178, "moduleId": 12, "title": "Pre-Engagement", "isPractical": true },
+  { "id": 179, "moduleId": 12, "title": "Information Gathering" },
+  {
+    "id": 180,
+    "moduleId": 12,
+    "title": "Vulnerability Assessment",
+    "isPractical": true
+  },
+  { "id": 181, "moduleId": 12, "title": "Exploitation" },
+  {
+    "id": 182,
+    "moduleId": 12,
+    "title": "Post-Exploitation",
+    "isPractical": true
+  },
+  { "id": 183, "moduleId": 12, "title": "Lateral Movement" },
+  { "id": 184, "moduleId": 12, "title": "Proof-of-Concept" },
+  {
+    "id": 185,
+    "moduleId": 12,
+    "title": "Post-Engagement",
+    "isPractical": true
+  },
+  { "id": 186, "moduleId": 12, "title": "Practice" }
+]
